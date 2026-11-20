@@ -2,5 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Talkback</title>
+    <item>
+      <title>0.2.0</title>
+      <pubDate>Fri, 20 Nov 2026 01:15:46 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/chrisgachot/talkback-releases/releases/download/v0.2.0/Talkback-0.2.0.dmg" sparkle:edSignature="Db5iB3FUaZ3Vs60dohPLY8GdvmB/3XNx5wDP/v9xkhdhe/visEr1kCYc3yDYGB0oyvmo7hTBRUy+q78kcj+kBQ==" length="1662627" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
