@@ -3,6 +3,14 @@
   <channel>
     <title>Talkback</title>
     <item>
+      <title>0.3.17</title>
+      <pubDate>Mon, 23 Nov 2026 15:21:22 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.3.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/chrisgachot/talkback-releases/releases/download/v0.3.17/Talkback-0.3.17.dmg" sparkle:edSignature="9RvqD5m8Q9o1xLsXWz0f207CMZ9qwuGZTm8xZ2VdTmoAtuHupcPT6KNt3p/stv555GCZsFvSUkepSAREB6spDg==" length="3367363" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.3.16</title>
       <pubDate>Sat, 21 Nov 2026 14:42:34 GMT</pubDate>
       <sparkle:version>20</sparkle:version>
